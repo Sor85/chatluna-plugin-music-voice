@@ -9,7 +9,7 @@ describe('项目边界', () => {
     const entry = readFileSync(join(root, 'AGENTS.md'), 'utf8')
     const registered = [...entry.matchAll(/`([^`]+\/AGENTS\.md)`/g)].map((match) => match[1])
     const found: string[] = []
-    for (const name of ['src', 'client', 'tests']) {
+    for (const name of ['src', 'client', 'scripts', 'tests']) {
       const walk = (directory: string) => {
         for (const file of readdirSync(join(root, directory), { withFileTypes: true })) {
           const relative = `${directory}/${file.name}`

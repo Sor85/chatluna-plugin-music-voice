@@ -22,4 +22,5 @@ ChatLuna v2 音乐搜索与发送插件。独立源码目录是唯一编辑入�
 
 - `src/AGENTS.md`：配置、搜索/选歌、消息发送与原始音频链接边界。
 - `client/AGENTS.md`：宿主 SchemaForm 扩展、ui-kit 与语言文案。
+- `scripts/AGENTS.md`：源码同步、本地 npm 发布与演练安全边界。
 - `tests/AGENTS.md`：回归测试、真实 HTTP 与沙箱验收要求。
