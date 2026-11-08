@@ -1,0 +1,4 @@
+audio-url-model.title: 返回远程音频链接给模型
+audio-url-model.description: 仅向模型返回音源提供的原始链接，由 ChatLuna 根据请求决定发送语音、文件或链接，插件不直接向聊天发送消息。
+music-card.title: 按歌曲来源发送音乐卡片
+music-card.description: 按来源发送网易云或 QQ 音乐卡片，仅支持 OneBot；QQ 卡片失败时回退歌曲网页链接。

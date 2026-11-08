@@ -1,0 +1,4 @@
+audio-url-model.title: Return audio links to the model
+audio-url-model.description: Returns the original audio source links for ChatLuna to deliver as voice, files or links according to the request. The plugin sends no chat message.
+music-card.title: Send a platform music card
+music-card.description: Sends a NetEase or QQ Music card on OneBot. A failed QQ card falls back to the song's web page link.
