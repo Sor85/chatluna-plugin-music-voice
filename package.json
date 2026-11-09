@@ -1,7 +1,7 @@
 {
   "name": "chatluna-plugin-music-voice",
   "version": "0.0.1",
-  "description": "为 ChatLuna v2 提供网易云与 QQ 音乐搜索、音频链接解析和音乐卡片发送工具",
+  "description": "为 ChatLuna 提供网易云与 QQ 音乐搜索、音频链接解析和音乐卡片发送工具",
   "type": "module",
   "license": "MIT",
   "repository": {
